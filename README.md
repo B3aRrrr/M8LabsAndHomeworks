@@ -1,4 +1,4 @@
 # MachineLearningLabsAndHomeworks
 First Lab
-ML_FirstLab.ipynb
+[a link](https://github.com/B3aRrrr/M8LabsAndHomeworks/blob/main/ML_FirstLab.ipynb)
 
