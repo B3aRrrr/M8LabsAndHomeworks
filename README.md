@@ -4,7 +4,7 @@
 
 ###  [100 numpy](https://colab.research.google.com/drive/1q8ZliTNMMbcr-ojVxNWWnPJnfaJLm_hX#scrollTo=e42eaa4b)
 
-1. [First Lab](https://colab.research.google.com/drive/1WP_34xBfHGjpCc8_jdFMKiAWz4uaWQC9?usp=sharing) \
+1. [First Lab](https://colab.research.google.com/drive/1WP_34xBfHGjpCc8_jdFMKiAWz4uaWQC9?usp=sharing)\
 2. [PyGMO Lab](https://colab.research.google.com/drive/1CYH1Sroo-NXKP3iHGeujO8z3-oK5Qik9?usp=sharing)\
 3. [Numba Lab](https://colab.research.google.com/drive/14zYkibagZpgmzNw91TvyoWYNBruUKIq3?usp=sharing)\
 4. [Optuna Lab](https://colab.research.google.com/drive/1jY12VGcX0ipefONUW0WnNs02p5699WhV?usp=sharing)\
