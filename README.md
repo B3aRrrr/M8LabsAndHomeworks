@@ -11,3 +11,7 @@
 5. [Lab](https://colab.research.google.com/drive/1oLA3Ri_LoJ7MkEkU7GO8rU5bXCYqRcJc)
 ###  Additional:
 >[MPI](https://colab.research.google.com/drive/1NvE18TaXFyuESUgIJE0ecRpJN4y0jp8I?usp=sharing) ([LU-decompostion](https://github.com/B3aRrrr/M8MachineLearningLabsAndHomeworks/tree/main/BellmanFordAlgorithmMPI) and [Bellman–Ford algorithm](https://github.com/B3aRrrr/M8MachineLearningLabsAndHomeworks/tree/main/LUPython)).
+
+
+### Весенний семестр 2022-2023
+1. [First Lab](https://github.com/B3aRrrr/M8MachineLearningLabsAndHomeworks/blob/main/Spring%20Semester/MLSem2Class_1_18_02_2023.ipynb)
