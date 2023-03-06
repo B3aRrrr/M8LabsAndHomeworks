@@ -14,4 +14,4 @@
 
 
 ### Весенний семестр 2022-2023
-1. [First Lab](https://github.com/B3aRrrr/M8MachineLearningLabsAndHomeworks/blob/main/Spring%20Semester/MLSem2Class_1_18_02_2023.ipynb)
+1. [First Lab](https://github.com/B3aRrrr/M8MachineLearningLabsAndHomeworks/blob/main/Spring%20Semester/MLSem2Class_1_18_02_2023.ipynb) ([Colab](https://colab.research.google.com/drive/11QsEefUxIDqbSF6k_rL3yHn0BW_k4ALu#scrollTo=WjscivVSEFtT&uniqifier=10))
